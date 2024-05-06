@@ -1,0 +1,13 @@
+C:\Users\pyuva\OneDrive\Desktop\random_array\random_array\random_array\bin\Debug\netcoreapp3.1\random_array.exe
+C:\Users\pyuva\OneDrive\Desktop\random_array\random_array\random_array\bin\Debug\netcoreapp3.1\random_array.deps.json
+C:\Users\pyuva\OneDrive\Desktop\random_array\random_array\random_array\bin\Debug\netcoreapp3.1\random_array.runtimeconfig.json
+C:\Users\pyuva\OneDrive\Desktop\random_array\random_array\random_array\bin\Debug\netcoreapp3.1\random_array.runtimeconfig.dev.json
+C:\Users\pyuva\OneDrive\Desktop\random_array\random_array\random_array\bin\Debug\netcoreapp3.1\random_array.dll
+C:\Users\pyuva\OneDrive\Desktop\random_array\random_array\random_array\bin\Debug\netcoreapp3.1\random_array.pdb
+C:\Users\pyuva\OneDrive\Desktop\random_array\random_array\random_array\obj\Debug\netcoreapp3.1\random_array.csproj.AssemblyReference.cache
+C:\Users\pyuva\OneDrive\Desktop\random_array\random_array\random_array\obj\Debug\netcoreapp3.1\random_array.AssemblyInfoInputs.cache
+C:\Users\pyuva\OneDrive\Desktop\random_array\random_array\random_array\obj\Debug\netcoreapp3.1\random_array.AssemblyInfo.cs
+C:\Users\pyuva\OneDrive\Desktop\random_array\random_array\random_array\obj\Debug\netcoreapp3.1\random_array.csproj.CoreCompileInputs.cache
+C:\Users\pyuva\OneDrive\Desktop\random_array\random_array\random_array\obj\Debug\netcoreapp3.1\random_array.dll
+C:\Users\pyuva\OneDrive\Desktop\random_array\random_array\random_array\obj\Debug\netcoreapp3.1\random_array.pdb
+C:\Users\pyuva\OneDrive\Desktop\random_array\random_array\random_array\obj\Debug\netcoreapp3.1\random_array.genruntimeconfig.cache
